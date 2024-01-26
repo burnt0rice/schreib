@@ -1,4 +1,4 @@
-# schreib - Markdown Edutir
+# schreib - Markdown Editor
 
 Welcome to the "schreib" Markdown Editor, a lightweight and user-friendly markdown editor crafted with Tauri and VueJS.
 
