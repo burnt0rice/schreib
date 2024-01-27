@@ -65,9 +65,17 @@
   font-style: italic;
 }
 
+* {
+  overflow: hidden;
+}
+
 html, body {
   font-family: "Lato" !important;
-  overflow: hidden;
+  background-color: transparent !important;
+
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 .focus-none:focus {

@@ -1,9 +1,9 @@
 <template>
-    <splitpanes class="h-screen w-full" style="height: 100vh;">
-        <pane id="editor" class="h-screen">
-            <textarea v-model="editorContent" class="w-full h-full focus-none px-4 py-3 bg-base-100" placeholder="Editor"></textarea>
+    <splitpanes class="rounded-lg" style="height: 100%;">
+        <pane id="editor" class="h-full px-4 py-3 bg-base-100">
+            <textarea v-model="editorContent" class="w-full h-full focus-none bg-base-100 resize-none overflow-visible" placeholder="Editor"></textarea>
         </pane>
-        <pane id="preview" class="markdown-body h-screen border-l border-base-300 px-4 py-3" v-html="previewContent">
+        <pane id="preview" class="markdown-body h-full px-4 py-3 overflow-visible" v-html="previewContent">
         </pane>
     </splitpanes>
 </template>
