@@ -10,6 +10,10 @@ Welcome to the "schreib" Markdown Editor, a lightweight and user-friendly markdo
 - Real-time Preview: Preview your markdown content in real-time, allowing you to see the changes as you type.
 
 ## Getting Started
+### Download
+You can download the latest version from the release page: [https://github.com/burnt0rice/schreib/releases](https://github.com/burnt0rice/schreib/releases)
+
+### Build it yourself
 Clone the repository
 ```
 git clone https://github.com/burnt0rice/schreib
