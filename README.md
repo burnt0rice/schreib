@@ -2,6 +2,9 @@
 
 Welcome to the "schreib" Markdown Editor, a lightweight and user-friendly markdown editor crafted with Tauri and VueJS.
 
+## Demo
+![schreib Demo GIF](https://i.imgur.com/zKIXtnw.gif)
+
 ## Features
 - Simple Interface: Enjoy a clean and straightforward markdown editing experience.
 - Real-time Preview: Preview your markdown content in real-time, allowing you to see the changes as you type.
