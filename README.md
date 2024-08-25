@@ -35,3 +35,9 @@ npm run tauri dev
 - [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes)
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
+
+
+## Stroll through ricefield
+
+If you like this project, you can explore more of my projects on my [GitHub profile](https://github.com/burnt0rice) or on my [website](https://ricefield.ch).
+
